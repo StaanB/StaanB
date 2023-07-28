@@ -41,10 +41,4 @@
 
 <br><br>
 
-<div>
-<a href="https://github.com/StaanB">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staanb&layout=compact&langs_count=7&theme=dracula"/>
-<img height="215em" src="https://github-readme-stats.vercel.app/api?username=staanb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <img src="./meu-octocat.png" width="300" height="300">
