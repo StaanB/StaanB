@@ -1,8 +1,8 @@
 # Olá Devs, Stan aqui😄☕️
 ## Você chegou ao meu perfil do GitHub, fique a vontade e pode continuar...
 
-- 🔭 Atualmente estou trabalhando em uma escola de cursos, mas desejo mudar de área para ingressar em programação.
-- 🌱 Atualmente estou aprendendo bastante Javascript, React e desejo aprender React Native.
+- 🔭 Atualmente buscando uma vaga como Dev. Junior.
+- 🌱 Atualmente estou aprendendo React e desejo aprender React Native.
 - 👯 Estou procurando colaborar em projetos que envolvam as tecnologias que estou estudando.
 - 📫 Como entrar em contato comigo: Pode me chamar no Linkedin, Discord, Instagram ou Gmail, nessa ordem pois respondo mais rápido em algumas redes sociais especificas.
 - ⚡ Curiosidade: Vejo animes, amo cultura japonesa e sou fã de jogos
@@ -22,7 +22,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 
@@ -33,7 +38,6 @@
 ## Ferramentas e Tecnologias que estou aprendendo:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="40" height="40"/>
 <div>
 <br><br>
