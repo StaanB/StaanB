@@ -2,9 +2,9 @@
 ## Você chegou ao meu perfil do GitHub, fique a vontade e pode continuar...
 
 - 🔭 Atualmente buscando uma vaga como Dev. Junior.
-- 🌱 Atualmente estou aprendendo React e desejo aprender React Native.
+- 🌱 Atualmente estou aprendendo Back-end e desejo aprender React Native.
 - 👯 Estou procurando colaborar em projetos que envolvam as tecnologias que estou estudando.
-- 📫 Como entrar em contato comigo: Pode me chamar no Linkedin, Discord, Instagram ou Gmail, nessa ordem pois respondo mais rápido em algumas redes sociais especificas.
+- 📫 Como entrar em contato comigo: Pode me chamar no Linkedin, Instagram ou Gmail, nessa ordem pois respondo mais rápido em algumas redes sociais especificas.
 - ⚡ Curiosidade: Vejo animes, amo cultura japonesa e sou fã de jogos
 
   
