@@ -1,11 +1,13 @@
 # Olá Devs, Stan aqui😄☕️
 ## Você chegou ao meu perfil do GitHub, fique a vontade e pode continuar...
 
-- 🔭 Atualmente buscando uma vaga como Dev. Junior.
-- 🌱 Atualmente estou aprendendo Back-end e desejo aprender React Native.
-- 👯 Estou procurando colaborar em projetos que envolvam as tecnologias que estou estudando.
+- 🔭 Atualmente trabalho como Dev. Junior.
+- 🌱 Atualmente estou aprendendo Back-end e Golang.
+- 👯 Faço faculdade de sistemas web e ficaria feliz em conversar com alguém que também faz kkkk.
 - 📫 Como entrar em contato comigo: Pode me chamar no Linkedin, Instagram ou Gmail, nessa ordem pois respondo mais rápido em algumas redes sociais especificas.
 - ⚡ Curiosidade: Vejo animes, amo cultura japonesa e sou fã de jogos
+<br/>
+<br/>
 
   
 <div align="center">
@@ -34,10 +36,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="15" height="15"/><span><b> Typescript &nbsp;</b></span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" width="15" height="15"/><span><b> Grunt &nbsp;</b></span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="15" height="15"/><span><b> GulpJS &nbsp;</b></span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="15" height="15"/><span><b> VueJS &nbsp;</b></span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15" height="15"/><span><b> ReactJS &nbsp;</b></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="15" height="15"/><span><b> NextJS &nbsp;</b></span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="15" height="15"/><span><b> ReduxJS &nbsp;</b></span>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="15" height="15"/><span><b> Python &nbsp;</b></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="15" height="15"/><span><b> NodeJS &nbsp;</b></span>
+<br/>
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="15" height="15"/><span><b> PostgreSQL &nbsp;</b></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="15" height="15"/><span><b> Docker &nbsp;</b></span>
 
 </div>
 
@@ -45,19 +52,15 @@
 
 ## 💻Ferramentas e Tecnologias que estou aprendendo:
 <div align='center'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="15" height="15"/><span><b> NodeJS &nbsp;</b></span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="15" height="15"/><span><b> NextJS &nbsp;</b></span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="15" height="15"/><span><b> Python &nbsp;</b></span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="15" height="15"/><span><b> PostgreSQL &nbsp;</b></span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="15" height="15"/><span><b> Django &nbsp;</b></span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="15" height="15"/><span><b> Docker &nbsp;</b></span>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"  width="15" height="15"/><span><b> Ruby &nbsp;</b></span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"  width="15" height="15"/><span><b> Golang &nbsp;</b></span>
 <div>
 <br><br>
 
 ## Contato
 <div>
 <a href="https://www.linkedin.com/in/stanley-brenner-213989184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://instagram.com/staanb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/_staanb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:stanleybrenner@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
