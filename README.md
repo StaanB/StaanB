@@ -10,12 +10,6 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-  
- | [![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StaanB&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StaanB&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-
- 
   <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,github,vscode,javascript,typescript,ruby,golang,dart,css,html,react,next,flutter,tailwind,sass,less,nodejs,redux,docker,aws,figma,jest,linux,windows,postman,styledcomponents,vercel,vite,bootstrap,mongodb,graphql,postgres,mysql,discord,linkedin,instagram" />
