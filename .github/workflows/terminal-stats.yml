@@ -1,0 +1,24 @@
+name: Terminal-Stats
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-terminal-svg
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate terminal.svg with live stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: python scripts/gen_terminal.py
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/terminal.svg
+          git diff --staged --quiet && echo "Nada novo pra commitar hoje, pulando." || (git commit -m "chore: atualiza stats do terminal" && git push)

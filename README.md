@@ -18,13 +18,6 @@ Dev Full-Stack Pleno-Sênior (React, Next.js, Node, Flutter), hoje com um fluxo 
 ![](./profile-3d-contrib/profile-custom-orange.svg)
 
 <div align="center">
-
-![Stanley's GitHub Stats](https://staanb-readme-stats.vercel.app/api?username=StaanB&show_icons=true&theme=dark&hide_border=true)
-![Streak stats](https://streak-stats.demolab.com?user=StaanB&theme=dark&hide_border=true)
-
-</div>
-
-<div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,ruby,rails,flutter,dart,graphql,docker,git,github,vscode,tailwind,sass,aws,jest,cypress,html,css,vercel" />
 </a>

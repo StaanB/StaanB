@@ -1,7 +1,7 @@
-<svg width="700" height="396" viewBox="0 0 700 396" xmlns="http://www.w3.org/2000/svg">
-<defs><clipPath id="round"><rect width="700" height="396" rx="10"/></clipPath></defs>
+<svg width="700" height="604" viewBox="0 0 700 604" xmlns="http://www.w3.org/2000/svg">
+<defs><clipPath id="round"><rect width="700" height="604" rx="10"/></clipPath></defs>
 <g clip-path="url(#round)">
-<rect width="700" height="396" fill="#0A0908"/>
+<rect width="700" height="604" fill="#0A0908"/>
 <rect width="700" height="42" fill="#1C1712"/>
 <circle cx="24" cy="21.0" r="6" fill="#FF5F56"/>
 <circle cx="46" cy="21.0" r="6" fill="#FFBD2E"/>
@@ -21,5 +21,12 @@
 <text x="28" y="311" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Hobbies</tspan><tspan fill="#5A5347">.......: </tspan><tspan fill="#F2ECE3">Animes, jogos, futebol</tspan></text>
 <text x="28" y="337" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Portfolio</tspan><tspan fill="#5A5347">.....: </tspan><tspan fill="#F2ECE3">portfolio-stanley-delta.vercel.app</tspan></text>
 <text x="28" y="363" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Contact</tspan><tspan fill="#5A5347">.......: </tspan><tspan fill="#F2ECE3">LinkedIn · GitHub · Gmail</tspan></text>
+<text x="28" y="415" font-size="17" font-weight="700" fill="#F2ECE3">visitor@stanley:~$ github-stats</text>
+<text x="28" y="441" font-size="15" fill="#FF6B1A">-------------</text>
+<text x="28" y="467" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Repos</tspan><tspan fill="#5A5347">.........: </tspan><tspan fill="#F2ECE3">10</tspan></text>
+<text x="28" y="493" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Stars</tspan><tspan fill="#5A5347">.........: </tspan><tspan fill="#F2ECE3">1</tspan></text>
+<text x="28" y="519" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Commits (1y)</tspan><tspan fill="#5A5347">..: </tspan><tspan fill="#F2ECE3">99 (+1370 private)</tspan></text>
+<text x="28" y="545" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Followers</tspan><tspan fill="#5A5347">.....: </tspan><tspan fill="#F2ECE3">30</tspan></text>
+<text x="28" y="571" font-size="15"><tspan fill="#FF6B1A" font-weight="600">PRs / Issues</tspan><tspan fill="#5A5347">..: </tspan><tspan fill="#F2ECE3">8 / 1</tspan></text>
 </g>
 </svg>
