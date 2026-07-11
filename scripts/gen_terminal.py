@@ -17,6 +17,8 @@ TITLEBAR = "#1C1712"
 INK = "#F2ECE3"
 MUTED = "#5A5347"
 ACCENT = "#FF6B1A"
+GREEN = "#39D353"
+GREEN_MUTED = "#1F6B2C"
 BORDER = "#2A241C"
 
 SPECS = [
@@ -80,12 +82,12 @@ def esc(s):
     return html.escape(str(s))
 
 
-def kv_line(x, y, label, dots, value, font_size=15):
+def kv_line(x, y, label, dots, value, font_size=15, label_color=ACCENT, dots_color=MUTED, value_color=INK):
     return (
         f'<text x="{x}" y="{y}" font-size="{font_size}">'
-        f'<tspan fill="{ACCENT}" font-weight="600">{esc(label)}</tspan>'
-        f'<tspan fill="{MUTED}">{esc(dots)}: </tspan>'
-        f'<tspan fill="{INK}">{esc(value)}</tspan>'
+        f'<tspan fill="{label_color}" font-weight="600">{esc(label)}</tspan>'
+        f'<tspan fill="{dots_color}">{esc(dots)}: </tspan>'
+        f'<tspan fill="{value_color}">{esc(value)}</tspan>'
         f"</text>"
     )
 
@@ -153,16 +155,21 @@ def build_svg(stats):
     y += line_h  # blank spacer
 
     svg.append(
-        f'<text x="{pad_x}" y="{y}" font-size="{font_size+2}" font-weight="700" fill="{INK}">'
+        f'<text x="{pad_x}" y="{y}" font-size="{font_size+2}" font-weight="700" fill="{GREEN}">'
         f"visitor@stanley:~$ github-stats</text>"
     )
     y += line_h
-    svg.append(f'<text x="{pad_x}" y="{y}" font-size="{font_size}" fill="{ACCENT}">{"-"*13}</text>')
+    svg.append(f'<text x="{pad_x}" y="{y}" font-size="{font_size}" fill="{GREEN}">{"-"*13}</text>')
     y += line_h
     stats_label_w = 14
     for label, value in stats_rows:
         dots = "." * max(1, stats_label_w - len(label))
-        svg.append(kv_line(pad_x, y, label, dots, value, font_size))
+        svg.append(
+            kv_line(
+                pad_x, y, label, dots, value, font_size,
+                label_color=GREEN, dots_color=GREEN_MUTED, value_color=GREEN,
+            )
+        )
         y += line_h
 
     svg.append("</g>")
