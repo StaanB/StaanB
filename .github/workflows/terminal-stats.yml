@@ -21,4 +21,4 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add assets/terminal.svg
-          git diff --staged --quiet && echo "Nada novo pra commitar hoje, pulando." || (git commit -m "chore: atualiza stats do terminal" && git push)
+          git diff --staged --quiet && echo "Nada novo pra commitar hoje, pulando." || (git commit -m "chore: atualiza stats do terminal" && git pull --rebase && git push)
