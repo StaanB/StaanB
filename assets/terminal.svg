@@ -21,12 +21,12 @@
 <text x="28" y="311" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Hobbies</tspan><tspan fill="#5A5347">.......: </tspan><tspan fill="#F2ECE3">Animes, jogos, futebol</tspan></text>
 <text x="28" y="337" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Portfolio</tspan><tspan fill="#5A5347">.....: </tspan><tspan fill="#F2ECE3">portfolio-stanley-delta.vercel.app</tspan></text>
 <text x="28" y="363" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Contact</tspan><tspan fill="#5A5347">.......: </tspan><tspan fill="#F2ECE3">LinkedIn · GitHub · Gmail</tspan></text>
-<text x="28" y="415" font-size="17" font-weight="700" fill="#39D353">visitor@stanley:~$ github-stats</text>
-<text x="28" y="441" font-size="15" fill="#39D353">-------------</text>
-<text x="28" y="467" font-size="15"><tspan fill="#39D353" font-weight="600">Repos</tspan><tspan fill="#1F6B2C">.........: </tspan><tspan fill="#39D353">10</tspan></text>
-<text x="28" y="493" font-size="15"><tspan fill="#39D353" font-weight="600">Stars</tspan><tspan fill="#1F6B2C">.........: </tspan><tspan fill="#39D353">1</tspan></text>
-<text x="28" y="519" font-size="15"><tspan fill="#39D353" font-weight="600">Commits (1y)</tspan><tspan fill="#1F6B2C">..: </tspan><tspan fill="#39D353">102 (+1370 private)</tspan></text>
-<text x="28" y="545" font-size="15"><tspan fill="#39D353" font-weight="600">Followers</tspan><tspan fill="#1F6B2C">.....: </tspan><tspan fill="#39D353">30</tspan></text>
-<text x="28" y="571" font-size="15"><tspan fill="#39D353" font-weight="600">PRs / Issues</tspan><tspan fill="#1F6B2C">..: </tspan><tspan fill="#39D353">8 / 1</tspan></text>
+<text x="28" y="415" font-size="17" font-weight="700" fill="#F2ECE3">visitor@stanley:~$ github-stats</text>
+<text x="28" y="441" font-size="15" fill="#FF6B1A">-------------</text>
+<text x="28" y="467" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Repos</tspan><tspan fill="#5A5347">.........: </tspan><tspan fill="#39D353" font-weight="700">10</tspan></text>
+<text x="28" y="493" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Stars</tspan><tspan fill="#5A5347">.........: </tspan><tspan fill="#39D353" font-weight="700">1</tspan></text>
+<text x="28" y="519" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Commits (1y)</tspan><tspan fill="#5A5347">..: </tspan><tspan fill="#39D353" font-weight="700">103 (+1370 private)</tspan></text>
+<text x="28" y="545" font-size="15"><tspan fill="#FF6B1A" font-weight="600">Followers</tspan><tspan fill="#5A5347">.....: </tspan><tspan fill="#39D353" font-weight="700">30</tspan></text>
+<text x="28" y="571" font-size="15"><tspan fill="#FF6B1A" font-weight="600">PRs / Issues</tspan><tspan fill="#5A5347">..: </tspan><tspan fill="#39D353" font-weight="700">8 / 1</tspan></text>
 </g>
 </svg>

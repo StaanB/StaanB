@@ -82,12 +82,13 @@ def esc(s):
     return html.escape(str(s))
 
 
-def kv_line(x, y, label, dots, value, font_size=15, label_color=ACCENT, dots_color=MUTED, value_color=INK):
+def kv_line(x, y, label, dots, value, font_size=15, label_color=ACCENT, dots_color=MUTED, value_color=INK, value_bold=False):
+    weight = ' font-weight="700"' if value_bold else ""
     return (
         f'<text x="{x}" y="{y}" font-size="{font_size}">'
         f'<tspan fill="{label_color}" font-weight="600">{esc(label)}</tspan>'
         f'<tspan fill="{dots_color}">{esc(dots)}: </tspan>'
-        f'<tspan fill="{value_color}">{esc(value)}</tspan>'
+        f'<tspan fill="{value_color}"{weight}>{esc(value)}</tspan>'
         f"</text>"
     )
 
@@ -155,11 +156,11 @@ def build_svg(stats):
     y += line_h  # blank spacer
 
     svg.append(
-        f'<text x="{pad_x}" y="{y}" font-size="{font_size+2}" font-weight="700" fill="{GREEN}">'
+        f'<text x="{pad_x}" y="{y}" font-size="{font_size+2}" font-weight="700" fill="{INK}">'
         f"visitor@stanley:~$ github-stats</text>"
     )
     y += line_h
-    svg.append(f'<text x="{pad_x}" y="{y}" font-size="{font_size}" fill="{GREEN}">{"-"*13}</text>')
+    svg.append(f'<text x="{pad_x}" y="{y}" font-size="{font_size}" fill="{ACCENT}">{"-"*13}</text>')
     y += line_h
     stats_label_w = 14
     for label, value in stats_rows:
@@ -167,7 +168,7 @@ def build_svg(stats):
         svg.append(
             kv_line(
                 pad_x, y, label, dots, value, font_size,
-                label_color=GREEN, dots_color=GREEN_MUTED, value_color=GREEN,
+                label_color=ACCENT, dots_color=MUTED, value_color=GREEN, value_bold=True,
             )
         )
         y += line_h
