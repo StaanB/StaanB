@@ -15,7 +15,7 @@ Dev Full-Stack Pleno-Sênior (React, Next.js, Node, Flutter), hoje com um fluxo 
 
 <br/>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-custom-orange.svg)
 
 <div align="center">
 
