@@ -17,16 +17,4 @@ Dev Full-Stack Pleno-Sênior (React, Next.js, Node, Flutter), hoje com um fluxo 
 
 ![](./profile-3d-contrib/profile-custom-orange.svg)
 
-<div align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,ruby,rails,flutter,dart,graphql,docker,git,github,vscode,tailwind,sass,aws,jest,cypress,html,css,vercel" />
-</a>
-</div>
-
-## Contato
-<div>
-<a href="https://portfolio-stanley-delta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-FF6B1A?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/stanley-brenner-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/_staanb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:stanleybrenner@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+📫 [Portfólio](https://portfolio-stanley-delta.vercel.app) · [LinkedIn](https://www.linkedin.com/in/stanley-brenner-dev/) · [Instagram](https://instagram.com/_staanb) · [Gmail](mailto:stanleybrenner@gmail.com)
